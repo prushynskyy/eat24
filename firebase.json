@@ -1,0 +1,9 @@
+{
+  "firebase": "eat24",
+  "public": "app",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
